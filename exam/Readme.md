@@ -13,6 +13,6 @@ ____
 4. Создаем код для вызова методов и обработки информации через консоль. Выводим поясняющую информационную строку для пользователя в консоле
 ___
 # Блок-схема
-![Картинки](https://github.com/eburkhanova/Seminar/blob/main/1.png)https://github.com/eburkhanova/Seminar/blob/main/1.png)
+![Картинки](https://github.com/eburkhanova/Seminar/blob/main/1.png)
 ___
 # Конец
